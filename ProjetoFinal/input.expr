@@ -1,0 +1,26 @@
+programa.
+
+INTEGER a, b.
+a:=0.
+b:=1.
+
+se (a<b)
+entao
+	a:=a+1.
+senao
+	a:=a-1.
+fimse.
+
+
+
+enquanto (a<b)
+	a:=a+1.
+fimenquanto.
+	
+	
+faca
+	a:=a+1.
+enquanto (a<b)
+fimfacaenquanto.
+
+fimprog.
